@@ -1,0 +1,14 @@
+D:\AccesModifiers.Namespace\AccesModifiers.Namespace\bin\Debug\net6.0\AccesModifiers.Namespace.exe
+D:\AccesModifiers.Namespace\AccesModifiers.Namespace\bin\Debug\net6.0\AccesModifiers.Namespace.deps.json
+D:\AccesModifiers.Namespace\AccesModifiers.Namespace\bin\Debug\net6.0\AccesModifiers.Namespace.runtimeconfig.json
+D:\AccesModifiers.Namespace\AccesModifiers.Namespace\bin\Debug\net6.0\AccesModifiers.Namespace.dll
+D:\AccesModifiers.Namespace\AccesModifiers.Namespace\bin\Debug\net6.0\AccesModifiers.Namespace.pdb
+D:\AccesModifiers.Namespace\AccesModifiers.Namespace\obj\Debug\net6.0\AccesModifiers.Namespace.GeneratedMSBuildEditorConfig.editorconfig
+D:\AccesModifiers.Namespace\AccesModifiers.Namespace\obj\Debug\net6.0\AccesModifiers.Namespace.AssemblyInfoInputs.cache
+D:\AccesModifiers.Namespace\AccesModifiers.Namespace\obj\Debug\net6.0\AccesModifiers.Namespace.AssemblyInfo.cs
+D:\AccesModifiers.Namespace\AccesModifiers.Namespace\obj\Debug\net6.0\AccesModifiers.Namespace.csproj.CoreCompileInputs.cache
+D:\AccesModifiers.Namespace\AccesModifiers.Namespace\obj\Debug\net6.0\AccesModifiers.Namespace.dll
+D:\AccesModifiers.Namespace\AccesModifiers.Namespace\obj\Debug\net6.0\refint\AccesModifiers.Namespace.dll
+D:\AccesModifiers.Namespace\AccesModifiers.Namespace\obj\Debug\net6.0\AccesModifiers.Namespace.pdb
+D:\AccesModifiers.Namespace\AccesModifiers.Namespace\obj\Debug\net6.0\AccesModifiers.Namespace.genruntimeconfig.cache
+D:\AccesModifiers.Namespace\AccesModifiers.Namespace\obj\Debug\net6.0\ref\AccesModifiers.Namespace.dll
